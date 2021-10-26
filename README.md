@@ -12,6 +12,6 @@ When trying to get the physical location of an empty address:
 
 ![alt text](images/no_input.png "empty address")  
 
-When tring to get the physical location without connecting to the internet:  
+When trying to get the physical location without connecting to the internet:  
 
 ![alt text](images/no_internet.png "no internet")
