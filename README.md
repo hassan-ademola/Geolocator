@@ -1,17 +1,18 @@
+# Geolocator
 This **geolocator** uses the popular python GUI (Graphical User Interface) library, **Tkinter**. It takes in address and returns its longitude and latitude.  
 
 On running the application, the interface looks like this:  
 
-![alt text](images/interface.png "geolocator interface")  
+<p align='center'><img src='images/interface.png'/></p>  
 
 After inputting an address, the result displays like this:  
 
-![alt text](images/output.png "geolocator output")  
+<p align='center'><img src='images/output.png'/></p>  
 
 When trying to get the physical location of an empty address:  
 
-![alt text](images/no_input.png "empty address")  
+<p align='center'><img src='images/no_input.png'/></p>  
 
 When trying to get the physical location without connecting to the internet:  
 
-![alt text](images/no_internet.png "no internet")
+<p align='center'><img src='images/no_internet.png'/></p>
