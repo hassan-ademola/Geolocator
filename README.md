@@ -1,7 +1,7 @@
 # Geolocator
 This **geolocator** uses the popular python GUI (Graphical User Interface) library, **Tkinter**. It takes in address and returns its longitude and latitude.  
 
-On running the application, the interface looks like this:  
+On running the code cell, the interface looks like this:  
 
 <p align='center'><img src='images/interface.png'/></p>  
 
